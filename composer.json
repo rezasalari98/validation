@@ -1,0 +1,9 @@
+{
+    "name": "reza/validation",
+    "autoload": {
+        "psr-4": {
+            "Validation\\" : "src/"
+        }
+    },
+    "require": {}
+}
