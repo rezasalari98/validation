@@ -1,5 +1,5 @@
 {
-    "name": "reza/validation",
+    "name": "rezasalari/validation",
     "autoload": {
         "psr-4": {
             "Validation\\" : "src/"
