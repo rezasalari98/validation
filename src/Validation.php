@@ -9,4 +9,6 @@ class Validation
     }
     public function get()
     {}
+    public function set()
+    {}
 }
