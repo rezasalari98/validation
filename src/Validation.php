@@ -3,7 +3,7 @@ namespace RoocketValidation;
 
 class Validation
 {
-    public function require(array $data, $field) : bool
+    public function has(array $data, $field) : bool
     {
         return isset($data[$field]);
     }
