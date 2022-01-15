@@ -2,7 +2,7 @@
     "name": "rezasalari/validation",
     "autoload": {
         "psr-4": {
-            "Validation\\" : "src/"
+            "RoocketValidation\\" : "src/"
         }
     },
     "license": ["MIT"],
