@@ -5,7 +5,7 @@ class Validation
 {
     public function has(array $data, $field) : bool
     {
-        return isset($data[$field]);
+//        return isset($data[$field]);
     }
     public function get()
     {}
